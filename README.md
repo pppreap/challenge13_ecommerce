@@ -3,6 +3,8 @@
 Using Express.js, Sequelize, and MySQL database, the backend for an e-commerce site will be built.
 Link to [Application Functionality Video]:()
 
+This walkthrough video show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
+
 # User Story for E-Commerce Back End
 
 A manager at an internet retail company WANT a back end for my e-commerce website that uses the latest technologies
@@ -10,11 +12,12 @@ SO THAT their company can compete with other e-commerce companies.
 
 The developer will create an application that will fulfill these criteria.
 
-**Technologies Used: Express.js, Node.js, npm, MySQL**
-- MySQL2 package will be needed to connect to MySQL database and perform queries.
-- You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+**Technologies Used: Express.js, Node.js, npm, MySQL**.
+- MySQL2 and Sequelize package will be needed to connect to MySQL database and perform queries.
+- Sequelize packages connect your Express.js API to a MySQL database
+- dotenv package use environment variables to store sensitive data, like your MySQL username, password, and database name.
 
-The following video shows an example of the application being used from the command line: ()
+The following video shows an example of the backend working using Insomnia to show the database information: ()
 
 ## Criteria
 
