@@ -65,11 +65,15 @@ run command in main directory:
 - npm start
 
 ### Assets
-These are images of the working backend functionalities.
-![Start of the application](./assets/)
-![View](./assets/)
-![View] (./assets/)
-![View](./assets/)
+These are images of the working backend functionalities and databases queries tested with Insomnia: GET, POST, PUT, and DELETE for categories, products, and tags.
+
+![Connected to Server/DB](./assets/nowlistening.png)
+![GET all Categories](./assets/allcategories.png)
+![GET One Product by Id](./assets/productid.png)
+![POST Create Product](./assets/createproduct.png)
+![POST Create New Tag](./assets/createnewtag.png)
+![PUT Update Category](./assets/updatecategory.png)
+![DELETE Tag By Id](./assets/deletetag.png)
 
 
 #### Links
