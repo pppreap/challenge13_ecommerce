@@ -1,7 +1,7 @@
 # Module 13: Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
 Using Express.js, Sequelize, and MySQL database, the backend for an e-commerce site will be built.
-Link to [Application Functionality Video]:()
+Link to [Application Functionality Video]:(https://youtu.be/tV_SDL18bpg)
 
 This walkthrough video show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
@@ -17,7 +17,7 @@ The developer will create an application that will fulfill these criteria.
 - Sequelize packages connect your Express.js API to a MySQL database
 - dotenv package use environment variables to store sensitive data, like your MySQL username, password, and database name.
 
-The following video shows an example of the backend working using Insomnia to show the database information: ()
+The following video shows an example of the backend working  and using Insomnia to show the database api routes functioning: (https://youtu.be/tV_SDL18bpg)
 
 ## Criteria
 
@@ -79,7 +79,7 @@ These are images of the working backend functionalities and databases queries te
 #### Links
 [Github Repository](https://github.com/pppreap/challenge13_ecommerce) 
 ///
-[Link to  Functionality Video]()
+[Link to  Functionality Video](https://youtu.be/tV_SDL18bpg)
 
 #### License/ Credits
 Starter Code, User Story, and Criteria from Michigan State University Boot Camp.
