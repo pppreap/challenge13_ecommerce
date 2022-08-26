@@ -46,22 +46,23 @@ THEN **the user is able to successfully create, update, and delete data in my da
 You will need to have Express.js /Node.js installed on your computer.
 You will need to clone the starter code from the project repository.
 You will need to make sure you are in the main directory of the project folder.
+You will need to create an .env file in the directory.
 
-You will need to install npm packages needed.
+You will need to install npm packages.
 
 run command in main directory:
 
 - npm init
 - npm i
-- npm start
 
 run command in the db/schema.sql directory:
 
 - mysql -u root -p (with your own login credentials**)
 - source schema.sql
 
-run command in seeds directory:
+run command in main directory:
 - npm run seed 
+- npm start
 
 ### Assets
 These are images of the working backend functionalities.
