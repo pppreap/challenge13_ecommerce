@@ -79,7 +79,7 @@ These are images of the working backend functionalities and databases queries te
 #### Links
 [Github Repository](https://github.com/pppreap/challenge13_ecommerce) 
 ///
-[Link to  Functionality Video](https://youtu.be/tV_SDL18bpg)
+[Link to Functionality Walkthrough Video](https://youtu.be/tV_SDL18bpg)
 
 #### License/ Credits
 Starter Code, User Story, and Criteria from Michigan State University Boot Camp.
